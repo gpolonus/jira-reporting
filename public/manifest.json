@@ -1,0 +1,10 @@
+{
+  "short_name": "Jira Reporting App",
+  "name": "Jira Reporting App",
+  "icons": [
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
